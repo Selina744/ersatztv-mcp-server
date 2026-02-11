@@ -1,0 +1,15 @@
+[
+  {"id":1,"number":"1","name":"ErsatzTV","ffmpegProfile":"1920x1080 x264 aac","streamingMode":"MPEG-TS"},
+  {"id":2,"number":"2","name":"Cartoons","ffmpegProfile":"1920x1080 x264 aac","streamingMode":"MPEG-TS"},
+  {"id":3,"number":"3","name":"Horror","ffmpegProfile":"1920x1080 x264 aac","streamingMode":"MPEG-TS"},
+  {"id":4,"number":"109","name":"Duck Noir","ffmpegProfile":"1920x1080 x264 aac","streamingMode":"MPEG-TS"},
+  {"id":5,"number":"103","name":"Popcorn PAnda","ffmpegProfile":"1920x1080 x264 aac","streamingMode":"MPEG-TS"},
+  {"id":6,"number":"102","name":"Amy's Macabre Matine","ffmpegProfile":"1920x1080 x264 aac","streamingMode":"MPEG-TS"},
+  {"id":7,"number":"101","name":"Nitro Cinema","ffmpegProfile":"1920x1080 x264 aac","streamingMode":"MPEG-TS"},
+  {"id":8,"number":"100","name":"Jasmine's Enchanted Theater","ffmpegProfile":"1920x1080 x264 aac","streamingMode":"MPEG-TS"},
+  {"id":9,"number":"105","name":"Cinema Maman","ffmpegProfile":"1920x1080 x264 aac","streamingMode":"MPEG-TS"},
+  {"id":10,"number":"104","name":"Melanie's Madhouse","ffmpegProfile":"1920x1080 x264 aac","streamingMode":"MPEG-TS"},
+  {"id":11,"number":"106","name":"Hygge Cinema","ffmpegProfile":"1920x1080 x264 aac","streamingMode":"MPEG-TS"},
+  {"id":12,"number":"107","name":"Benny HQ","ffmpegProfile":"1920x1080 x264 aac","streamingMode":"MPEG-TS"},
+  {"id":13,"number":"108","name":"Melia's Crystal Palace","ffmpegProfile":"1920x1080 x264 aac","streamingMode":"MPEG-TS"}
+]

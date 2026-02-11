@@ -1,0 +1,13 @@
+#EXTM3U url-tvg="http://192.168.0.161:8409/iptv/xmltv.xml" x-tvg-url="http://192.168.0.161:8409/iptv/xmltv.xml"
+#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="Uegk0xKRAU20_YWo_hm0Hw" channel-number="1" CUID="Uegk0xKRAU20_YWo_hm0Hw" tvg-chno="1" tvg-name="ErsatzTV" tvg-logo="http://192.168.0.161:8409/iptv/logos/gen?text=ErsatzTV" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", ErsatzTV
+http://192.168.0.161:8409/iptv/channel/1.ts
+#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="HEuIk_f6okuje8awrrfPww" channel-number="2" CUID="HEuIk_f6okuje8awrrfPww" tvg-chno="2" tvg-name="Cartoons" tvg-logo="http://192.168.0.161:8409/iptv/logos/2AE5CFFDF8AB178804E61E74D376213F.jpg" group-title="Cartoons" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Cartoons
+http://192.168.0.161:8409/iptv/channel/2.ts
+#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="bF_a1EWL9Eat1vLTyKlyKA" channel-number="3" CUID="bF_a1EWL9Eat1vLTyKlyKA" tvg-chno="3" tvg-name="Horror" tvg-logo="http://192.168.0.161:8409/iptv/logos/gen?text=Horror" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Horror
+http://192.168.0.161:8409/iptv/channel/3.ts
+#EXTINF:0 tvg-id="C100.241.ersatztv.org" channel-id="rzfLOJbK00SAovWTflu4GA" channel-number="100" CUID="rzfLOJbK00SAovWTflu4GA" tvg-chno="100" tvg-name="Jasmine's Enchanted Theater" tvg-logo="http://192.168.0.161:8409/iptv/logos/AE5D53252EC374E793D2AC5354B73DE1.jpg" group-title="FamJam" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Jasmine's Enchanted Theater
+http://192.168.0.161:8409/iptv/channel/100.ts
+#EXTINF:0 tvg-id="C101.242.ersatztv.org" channel-id="swGpzALK6k28W79dLAZZxg" channel-number="101" CUID="swGpzALK6k28W79dLAZZxg" tvg-chno="101" tvg-name="Nitro Cinema" tvg-logo="http://192.168.0.161:8409/iptv/logos/17B53665C6EE621FB597D570ED63C0D7.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Nitro Cinema
+http://192.168.0.161:8409/iptv/channel/101.ts
+#EXTINF:0 tvg-id="C109.250.ersatztv.org" channel-id="ms_4h9MUVECMMTJTZECizg" channel-number="109" CUID="ms_4h9MUVECMMTJTZECizg" tvg-chno="109" tvg-name="Duck Noir" tvg-logo="http://192.168.0.161:8409/iptv/logos/66FCAF9E9D94EB7AD2665DFD3ADF7B1E.jpg" group-title="Peeps" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Duck Noir
+http://192.168.0.161:8409/iptv/channel/109.ts

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "1920x1080 x264 aac",
+    "threadCount": 0,
+    "hardwareAcceleration": "None",
+    "vaapiDisplay": "drm",
+    "vaapiDriver": "Default",
+    "qsvExtraHardwareFrames": 64,
+    "resolution": "1920x1080",
+    "scalingBehavior": "ScaleAndPad",
+    "videoFormat": "H264",
+    "videoProfile": "high",
+    "videoPreset": "",
+    "allowBFrames": false,
+    "bitDepth": "EightBit",
+    "videoBitrate": 2000,
+    "videoBufferSize": 4000,
+    "tonemapAlgorithm": "Linear",
+    "audioFormat": "Aac",
+    "audioBitrate": 192,
+    "audioBufferSize": 384,
+    "normalizeLoudnessMode": "Off",
+    "audioChannels": 2,
+    "audioSampleRate": 48,
+    "normalizeFramerate": false,
+    "deinterlaceVideo": true
+  }
+]

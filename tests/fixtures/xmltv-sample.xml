@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="ersatztv">
+  <channel id="C1.145.ersatztv.org">
+    <display-name>1 ErsatzTV</display-name>
+    <display-name>1</display-name>
+    <display-name>ErsatzTV</display-name>
+    <icon src="http://192.168.0.161:8409/iptv/logos/gen?text=ErsatzTV"/>
+  </channel>
+  <channel id="C2.146.ersatztv.org">
+    <display-name>2 Cartoons</display-name>
+    <display-name>2</display-name>
+    <display-name>Cartoons</display-name>
+    <category lang="en">Anime</category>
+    <category lang="en">Cartoons</category>
+    <icon src="http://192.168.0.161:8409/iptv/logos/2AE5CFFDF8AB178804E61E74D376213F.jpg"/>
+  </channel>
+  <channel id="C3.147.ersatztv.org">
+    <display-name>3 Horror</display-name>
+    <display-name>3</display-name>
+    <display-name>Horror</display-name>
+    <category lang="en">Horror</category>
+    <icon src="http://192.168.0.161:8409/iptv/logos/gen?text=Horror"/>
+  </channel>
+  <programme start="20260211100000 -0600" stop="20260211103000 -0600" channel="C1.145.ersatztv.org">
+    <title lang="en">Bleach</title>
+    <sub-title lang="en">The Entry</sub-title>
+    <desc lang="en">Ichigo enters the Soul Society.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Animation</category>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <rating><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260211103000 -0600" stop="20260211110000 -0600" channel="C1.145.ersatztv.org">
+    <title lang="en">Bleach</title>
+    <sub-title lang="en">The Shinigami's Work</sub-title>
+    <desc lang="en">Rukia explains her duties as a Shinigami.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <rating><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260211110000 -0600" stop="20260211130000 -0600" channel="C1.145.ersatztv.org">
+    <title lang="en">Spirited Away</title>
+    <desc lang="en">A young girl becomes trapped in a strange world of spirits.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <rating><value>PG</value></rating>
+  </programme>
+  <programme start="20260211100000 -0600" stop="20260211103000 -0600" channel="C2.146.ersatztv.org">
+    <title lang="en">Dragon Ball Z</title>
+    <sub-title lang="en">The Arrival of Raditz</sub-title>
+    <desc lang="en">A mysterious warrior arrives on Earth.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <rating><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260211103000 -0600" stop="20260211110000 -0600" channel="C2.146.ersatztv.org">
+    <title lang="en">Naruto</title>
+    <sub-title lang="en">Enter: Naruto Uzumaki!</sub-title>
+    <desc lang="en">Naruto Uzumaki dreams of becoming the greatest Hokage.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <rating><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260211100000 -0600" stop="20260211120000 -0600" channel="C3.147.ersatztv.org">
+    <title lang="en">The Shining</title>
+    <desc lang="en">A family heads to an isolated hotel for the winter.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <rating><value>R</value></rating>
+  </programme>
+</tv>
